@@ -1,0 +1,4 @@
+conf terminal
+router eigrp 1
+network
+network
